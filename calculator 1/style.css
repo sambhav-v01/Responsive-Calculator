@@ -1,0 +1,32 @@
+.Display{
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+    
+}
+.calculator_button{
+    border: 1px solid rgb(37, 36, 36);
+    border-radius: 5px;
+    width: 25%;
+     background-color: black;
+}
+#calculatour{
+width: 96%;
+height: 90px;
+margin:5px;
+font-size: 30px;
+}
+.button-cal{
+   display: flex;
+   justify-content: center;
+}
+.button{
+    height: 85px;
+    width: 85px;
+    margin: 3px;
+    border-radius: 8px;
+    background-color: rgb(75, 77, 77);
+    font-size: 25px;
+    color: aliceblue;box-shadow: 2px 3px 3px black;
+    
+}
